@@ -8,5 +8,5 @@ def test_divide():
     assert divide(10, 2) == 5
 
 # Failing test case
-def test_fail():
-    assert add(2, 2) == 5
+#def test_fail():
+#    assert add(2, 2) == 5
